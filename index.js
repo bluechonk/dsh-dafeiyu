@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * DSH 大肥鱼宠物插件
+ * DSH 大肥鱼插件
  * 基于DeepSeek Harness的桌面宠物
  */
 

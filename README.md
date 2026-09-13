@@ -1,10 +1,10 @@
-# dsh-dafeiyu-pet 🐟
+# dsh-dafeiyu 🐟
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/dsh-dafeiyu-pet"><img alt="npm version" src="https://img.shields.io/npm/v/dsh-dafeiyu-pet?label=npm&color=blue"></a>
-  <a href="https://www.npmjs.com/package/dsh-dafeiyu-pet"><img alt="npm monthly downloads" src="https://img.shields.io/npm/dm/dsh-dafeiyu-pet?label=%E6%9C%88%E4%B8%8B%E8%BD%BD&color=brightgreen"></a>
-  <a href="https://github.com/BlueChonk/dsh-dafeiyu-pet"><img alt="stars" src="https://img.shields.io/github/stars/BlueChonk/dsh-dafeiyu-pet?style=social"></a>
-  <a href="https://github.com/BlueChonk/dsh-dafeiyu-pet/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/BlueChonk/dsh-dafeiyu-pet?color=orange"></a>
+  <a href="https://www.npmjs.com/package/dsh-dafeiyu"><img alt="npm version" src="https://img.shields.io/npm/v/dsh-dafeiyu?label=npm&color=blue"></a>
+  <a href="https://www.npmjs.com/package/dsh-dafeiyu"><img alt="npm monthly downloads" src="https://img.shields.io/npm/dm/dsh-dafeiyu?label=%E6%9C%88%E4%B8%8B%E8%BD%BD&color=brightgreen"></a>
+  <a href="https://github.com/BlueChonk/dsh-dafeiyu"><img alt="stars" src="https://img.shields.io/github/stars/BlueChonk/dsh-dafeiyu?style=social"></a>
+  <a href="https://github.com/BlueChonk/dsh-dafeiyu/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/BlueChonk/dsh-dafeiyu?color=orange"></a>
   <img alt="platform" src="https://img.shields.io/badge/platform-DeepSeek%20Harness%20Web-8A2BE2">
   <img alt="assets" src="https://img.shields.io/badge/assets-dynamic%20animations-ff69b4">
 </p>
@@ -24,7 +24,7 @@ npm install -g @deepseek-ai/dsh pnpm
 dsh --version   # 验证 dsh 命令可用
 
 # ③ 安装本插件
-dsh plugin --profile web add dsh-dafeiyu-pet
+dsh plugin --profile web add dsh-dafeiyu
 ```
 
 重启 `dsh web`，宠物出现在界面右上角（默认配置角落，可在设置页修改）。
@@ -46,8 +46,8 @@ dsh plugin --profile web add dsh-dafeiyu-pet
 
 ```bash
 # 克隆仓库
-git clone https://github.com/BlueChonk/dsh-dafeiyu-pet.git
-cd dsh-dafeiyu-pet
+git clone https://github.com/BlueChonk/dsh-dafeiyu.git
+cd dsh-dafeiyu
 
 # 安装依赖
 npm install

@@ -1,7 +1,7 @@
 {
-  "name": "dsh-dafeiyu-pet",
+  "name": "dsh-dafeiyu",
   "version": "0.1.0",
-  "description": "DSH 大肥鱼宠物插件 - 基于DeepSeek Harness的桌面宠物",
+  "description": "DSH 大肥鱼插件 - 基于DeepSeek Harness的桌面宠物",
   "main": "index.js",
   "scripts": {
     "dev": "node dev.js",
@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueChonk/dsh-dafeiyu-pet.git"
+    "url": "git+https://github.com/BlueChonk/dsh-dafeiyu.git"
   },
   "bugs": {
-    "url": "https://github.com/BlueChonk/dsh-dafeiyu-pet/issues"
+    "url": "https://github.com/BlueChonk/dsh-dafeiyu/issues"
   },
-  "homepage": "https://github.com/BlueChonk/dsh-dafeiyu-pet#readme"
+  "homepage": "https://github.com/BlueChonk/dsh-dafeiyu#readme"
 }

@@ -1,4 +1,4 @@
-# DSH 大肥鱼宠物使用指南
+# DSH 大肥鱼使用指南
 
 ## 安装
 
@@ -7,15 +7,15 @@
 # 安装DSH启动器（如果尚未安装）
 npm install -g @deepseek-ai/dsh pnpm
 
-# 安装大肥鱼宠物插件
-dsh plugin --profile web add dsh-dafeiyu-pet
+# 安装大肥鱼插件
+dsh plugin --profile web add dsh-dafeiyu
 ```
 
 ### 方法二：从源码安装
 ```bash
 # 克隆仓库
-git clone https://github.com/BlueChonk/dsh-dafeiyu-pet.git
-cd dsh-dafeiyu-pet
+git clone https://github.com/BlueChonk/dsh-dafeiyu.git
+cd dsh-dafeiyu
 
 # 安装依赖
 npm install
