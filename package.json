@@ -1,0 +1,40 @@
+{
+  "name": "dsh-dafeiyu-pet",
+  "version": "0.1.0",
+  "description": "DSH 大肥鱼宠物插件 - 基于DeepSeek Harness的桌面宠物",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "build": "node build.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dsh",
+    "deepseek",
+    "harness",
+    "pet",
+    "desktop",
+    "fish",
+    "dafeiyu"
+  ],
+  "author": "BlueChonk",
+  "license": "MIT",
+  "dependencies": {
+    "@deepseek-ai/dsh-pet-core": "^0.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueChonk/dsh-dafeiyu-pet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlueChonk/dsh-dafeiyu-pet/issues"
+  },
+  "homepage": "https://github.com/BlueChonk/dsh-dafeiyu-pet#readme"
+}
